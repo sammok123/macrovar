@@ -1,0 +1,2 @@
+# macrovar
+var on macro
